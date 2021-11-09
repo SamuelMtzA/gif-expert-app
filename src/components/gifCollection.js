@@ -1,3 +1,4 @@
+//componente que renderiza la coleccion de gifs
 import React from "react";
 import { useFetchGifs } from "../hooks/useFetchGifs";
 import { GifGridItem } from "./GifGridItem";
